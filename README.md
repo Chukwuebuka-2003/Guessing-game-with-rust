@@ -3,10 +3,6 @@ How i implemented and buiilt a guessing game with the Rust Programming Language
 
 ---
 
-# Guess the Number Game
-
-This is a simple command-line game where the player tries to guess a randomly generated number.
-
 ## How to Play
 
 1. Run the program.
